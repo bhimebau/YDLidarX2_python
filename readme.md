@@ -22,3 +22,8 @@ while time.time() - t < 20:  # Run for 20 seconds
 
 lidar.close()
 ```
+
+# YDLidar Windows Application to Display Sensor Data
+
+* [YDLidar Tool for the X2](https://www.ydlidar.com/dowfile.html?cid=6&type=5)
+* [X2 User Manual](https://www.ydlidar.com/dowfile.html?cid=6&type=2)
